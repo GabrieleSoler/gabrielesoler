@@ -2,6 +2,9 @@
 
 **`Frontend Developer`**
 
+I'm a **software developer** focused on **frontend development**, working mainly with **React** and **TypeScript**. I'm passionate about building clean, responsive, and user-friendly interfaces.
+
+I'm always looking to improve my skills and stay up-to-date with new technologies to deliver high-quality solutions.
 
 ### 🖥️ Tech Stack:
 
