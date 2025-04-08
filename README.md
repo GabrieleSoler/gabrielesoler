@@ -1,6 +1,6 @@
 ## Hey, I'm Gabriele 🌟
 
-**`Frontend Software Developer`**
+**`Frontend Developer`**
 
 
 ### 🖥️ Tech Stack:
